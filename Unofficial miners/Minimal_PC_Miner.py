@@ -10,7 +10,7 @@ import sys  # Only python3 included libraries
 soc = socket.socket()
 soc.settimeout(10)
 
-username = "revox"  # Edit this to your username, mind the quotes
+username = "MarcinK50"  # Edit this to your username, mind the quotes
 UseLowerDiff = True  # Set it to True to mine with lower difficulty
 
 while True:
